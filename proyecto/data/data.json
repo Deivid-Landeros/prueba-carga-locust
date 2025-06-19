@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": { "id": 1, "name": "perros" },
+    "name": "Firulais",
+    "photoUrls": ["https://images.dog.ceo/breeds/husky/n02110185_1469.jpg"],
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "category": { "id": 2, "name": "gatos" },
+    "name": "Michi",
+    "photoUrls": ["https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"],
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "category": { "id": 3, "name": "aves" },
+    "name": "Piolin",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/4/45/American_Goldfinch_-_male.jpg"],
+    "status": "sold"
+  },
+  {
+    "id": 4,
+    "category": { "id": 4, "name": "reptiles" },
+    "name": "Rango",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/6/6e/Green_Anole_Lizard.jpg"],
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "category": { "id": 5, "name": "peces" },
+    "name": "Nemo",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/7/7e/Clown_fish_in_Anilao.jpg"],
+    "status": "pending"
+  },
+  {
+    "id": 106,
+    "category": { "id": 6, "name": "caballos" },
+    "name": "Relámpago",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/9/9f/Horse_in_morning_light.jpg"],
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "category": { "id": 7, "name": "conejos" },
+    "name": "Tambor",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/7/70/Oryctolagus_cuniculus_Tasmania_2.jpg"],
+    "status": "sold"
+  },
+  {
+    "id": 8,
+    "category": { "id": 8, "name": "hamsters" },
+    "name": "Bolita",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/f/f0/Hamster_in_a_cup.jpg"],
+    "status": "available"
+  },
+  {
+    "id": 9,
+    "category": { "id": 9, "name": "tortugas" },
+    "name": "Rafael",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/8/8b/Turtle_in_the_water.jpg"],
+    "status": "pending"
+  },
+  {
+    "id": 10,
+    "category": { "id": 10, "name": "hurones" },
+    "name": "Lilo",
+    "photoUrls": ["https://upload.wikimedia.org/wikipedia/commons/6/6d/Ferret_in_the_grass.jpg"],
+    "status": "available"
+  }
+]
